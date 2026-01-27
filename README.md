@@ -1,2 +1,2 @@
 # python
-Author-Ishwor Basnet
+This is my first Git Repository
