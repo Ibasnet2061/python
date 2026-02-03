@@ -1,4 +1,4 @@
 # python
 This is my first Git Repository
 <br>
-Author-Ishwor Basnet
+Author-Ishwor (apna college)
